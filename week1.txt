@@ -1,0 +1,2 @@
+day la week1.txt
+thuoc branch: week1
